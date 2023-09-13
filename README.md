@@ -1,2 +1,2 @@
 # MaskedMe
-Author - HackNetAyush
+Author - Ayush Swami (HackNetAyush)
