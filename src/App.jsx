@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       {/* <h1 className='bg-red-500'>Hello</h1> */}
-      <div className='root w-full h-full flex items-center justify-center'>
+      <div className='root w-full h-full flex items-center  '>
         <Login/>
       </div>
     </>
